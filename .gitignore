@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Runtime state / cache
+.last_scan
+
+# Generated captures and analysis output
+scans/
+recordings/
+decodes/
+
+# Built-from-source third-party tools (rebuild via README)
+vendor/
